@@ -1,0 +1,14 @@
+.class1 {
+    font-size: 28px;
+    font-family: Helvetica ,'Times New Roman', sans-serif;
+}
+
+.class1.content1 {
+    background-color: black;
+    color: white;
+}
+
+.class1.content2 {
+    background-color: yellow;
+
+}
