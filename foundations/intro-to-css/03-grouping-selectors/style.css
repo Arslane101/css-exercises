@@ -1,12 +1,12 @@
 /* Add CSS Styling */
-.first {
+.alpha,.beta {
     font-size: 28px;
     font-family: Helvetica,"Times New Roman",sans-serif;    
 }
-.first.alpha {
+.alpha {
     background-color: black;
     color: white;
 }
-.first.beta {
+.beta {
     background-color: yellow;
 }
